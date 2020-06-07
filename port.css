@@ -1,0 +1,103 @@
+body{
+	background-color: #e5d4ce;
+}
+
+h1 {
+	margin: 100px 80px 10px 160px;
+}
+
+li {
+	display: inline;
+	float: right;
+	padding-right: 20px;
+	font-size: 20px;
+	margin-right: 50px;
+	margin-top: 20px;
+	font-family: sans-serif;
+	font: Geneva;
+}
+
+
+a {
+	background-color: #7fd1b9;
+	text-decoration: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #291720;
+}
+
+a:hover {
+	color: #e5d4ce;
+	background-color: #e56399;
+}
+
+#title {
+	font-weight: bold;
+	font-size: 70px;
+	font: Georgia;
+	color: #e56399;
+	text-decoration: underline;
+	text-decoration-color: white;
+}
+
+#name {
+	font-weight: bold;
+	font-size: 70px;
+	font: Georgia;
+	color: #291720;
+}
+
+p {
+	margin: 0px 160px;
+}
+
+p.descrip {
+	color: #e56399;
+	font-family: sans-serif;
+	font: Geneva;
+	font-size: 30px;
+}
+
+p.projbox {
+	font-family: sans-serif;
+	display: inline-block;
+	font-size: 40px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+p.text {
+	color: #291720;
+	font-family: sans-serif;
+	font: Geneva;
+	font-size: 20px;
+	width: 500px;
+}
+
+p.projtext {
+	color: #291720;
+	font-family: sans-serif;
+	font: Geneva;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 70px;
+}
+
+img.selfpic {
+	height:300px;
+	display:inline-block;
+	float: right;
+	margin-right: 250px;
+}
+
+img.carpic {
+	height: 300px;
+	display: block;
+  	margin-left: auto;
+ 	 margin-right: auto;
+}
+
+p.contact {
+	font-size: 16px;
+	font-family: sans-serif;
+}
